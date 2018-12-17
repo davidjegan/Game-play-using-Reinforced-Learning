@@ -1,2 +1,4 @@
 # Game-play-using-Reinforced-Learning
-This code addresses how we could teach an agent to navigate in a grid-world environment. In this modelled tom and jerry game, we apply reinforcement learning DQN (Deep Q-Network) to make the agent find the optimal shortest path from the goal(Jerry) to initial position(Tom) from its history of interaction with the environment. These two initial positions are deterministic.
+In this code, we addresses how we could teach an model to play a game using reinforcement
+learning DQN (Deep Q-Network) where the agent learns continuously from its history of
+interaction with the environment
